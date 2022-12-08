@@ -1,7 +1,11 @@
 # SnapHackathon-Cardano-Summit-CatalystCon-2022
 
+
+
 **SnapHackathon Kick-off Presentation:**
 https://docs.google.com/presentation/d/142HeDTTIcgS4S2qWFpYshK4V5ZcioZO8su-KXgqawL0/			
+					
+					
 					
 **Apply for both these Hackathons:**
 
@@ -16,8 +20,14 @@ https://explore.snapbrillia.com/teams/636179e034b547a75454f154
 SnapHackathon 2022 Discord: https://discord.gg/mY3MhnSn			
 SnapHackathon 2022 Discord Channel: https://ptb.discord.com/channels/892870285777330227/1050071683685417061			
 
+
+
+
 **Snaphackathon Detailed Agenda:**
 https://docs.google.com/spreadsheets/d/1YWi2-pSVaBHXtUI3S12A47IczteTNWHsC-RifwleyfQ/edit#gid=0
+
+
+
 
 **SnapHackathon Submission Requirements:**
 
@@ -49,6 +59,7 @@ Smart contracts (if applicable)
 Any frontend code (if applicable)
 
 Screens / graphic materials (optional)
+
 
 
 
