@@ -1,6 +1,17 @@
 # SnapHackathon-Cardano-Summit-CatalystCon-2022
 
-SnapHackathon Submission Requirements:
+SnapHackathon Kick-off Presentation:		https://docs.google.com/presentation/d/142HeDTTIcgS4S2qWFpYshK4V5ZcioZO8su-KXgqawL0/			
+					
+Apply for both these Hackathons:					* Feel free to utilize the discussion under Work tab
+
+CardanoSummit Hackathon:		https://explore.snapbrillia.com/bounties/636c4bc8e4a678b282d53e8d			https://explore.snapbrillia.com/teams/636c4bc8e4a678b282d53e8d
+
+CatalystCon Hackathon:		https://explore.snapbrillia.com/bounties/636179e034b547a75454f154			https://explore.snapbrillia.com/teams/636179e034b547a75454f154
+					
+SnapHackathon 2022 Discord:		https://discord.gg/mY3MhnSn			
+SnapHackathon 2022 Discord Channel:		https://ptb.discord.com/channels/892870285777330227/1050071683685417061			
+
+**SnapHackathon Submission Requirements:**
 
 To be considered by the SnapHackathon Judges you must push PR with a link to your repository: https://github.com/Snapbrillia/SnapHackathon-Cardano-Summit-CatalystCon-2022/
 
